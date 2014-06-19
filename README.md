@@ -1,4 +1,6 @@
-GitHubIntro
+GithubIntro
 ===========
 
-Introduction to GiHub
+One text file used for an introduction to how Github works when collaborating on a software design project.
+
+For directions and details, please see 
